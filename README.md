@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Hi, I'm Rohan  
 🎓 M.Tech (CSE) @ IIT Kanpur | Ex-Software Engineer @ Greenwatt Global Ventures  
 💡 Passionate about Machine Learning • Systems • Visualization • Product Engineering  
