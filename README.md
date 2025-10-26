@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](bluebanner.png)
 
 # 👋 Hi, I'm Rohan  
 🎓 M.Tech (CSE) @ IIT Kanpur | Ex-Software Engineer @ Greenwatt Global Ventures  
