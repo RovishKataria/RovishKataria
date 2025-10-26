@@ -38,10 +38,5 @@
 
 ---
 
-### 🎓 Coursework Highlights
-ML (CS771) • Cognitive Science (CS786) • Scientific Visualization (CS661) • Human-AI Interaction (CS698Y) • System Design • OS • DBMS • CN  
-
----
-
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/rohan-sde/) | [Portfolio](https://rovishkataria.github.io/Portfolio/) | [Email](mailto:rohankataria2000@gmail.com)
