@@ -1,8 +1,10 @@
 ![Banner](bluebanner.png)
 
-# 👋 Hi, I'm Rohan  
-🎓 M.Tech (CSE) @ IIT Kanpur | Ex-Software Engineer @ Greenwatt Global Ventures  
-💡 Passionate about Machine Learning • Systems • Visualization • Product Engineering  
+# 👋 Hi, I'm Rohan
+
+**Quantitative Analytics Analyst @ Barclays | M.Tech CSE @ IIT Kanpur**
+
+I build data-driven and intelligent systems at the intersection of **machine learning, software engineering, LLMs, and quantitative analysis**. 
 
 ---
 
