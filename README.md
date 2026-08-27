@@ -1,44 +1,84 @@
-![Banner](bluebanner.png)
+![Banner](GitHub_Banner.png)
 
-# 👋 Hi, I'm Rohan
+# Hi, I'm Rohan
 
-**Quantitative Analytics Analyst @ Barclays | M.Tech CSE @ IIT Kanpur**
+Quantitative Analytics Analyst @ Barclays | M.Tech CSE @ IIT Kanpur
 
-I build data-driven and intelligent systems at the intersection of **machine learning, software engineering, LLMs, and quantitative analysis**. 
+I build data-driven systems across machine learning, AI, software engineering, and quantitative analysis.
 
----
 
-### 🧩 About Me
-- 💻 Currently working on: **LLM Agents for Software Engineering** (M.Tech Thesis under Prof. Subhajit Roy)  
-- 🧠 Interests: Applied ML, Data Visualization, Scientific Computing, Product Design  
-- 🪶 Previously automated multi-source data pipelines & hardware integrations at Greenwatt  
-- 📈 Always building tools that merge research, usability & impact  
+## About Me
 
----
+- 🎓 M.Tech in Computer Science & Engineering from IIT Kanpur
+- 🔬 M.Tech thesis: **AAKAAR — An LLM-Based Approach to Parametric Shape Synthesis**
+- 💼 Previously worked as a Software Engineer building Python-based automation and hardware-integrated systems
+- 🧠 Interested in machine learning, LLMs, data analysis, software systems, and scientific visualization
+- 🛠️ I enjoy turning research ideas into practical and usable software
 
-### 🧠 Tech Stack
-`Python` `C++` `Flask` `React` `FastAPI` `Node.js` `MongoDB` `SQL` `Docker`  
-`PyTorch` `TensorFlow` `VTK` `Plotly` `Streamlit` `Power BI` `Arduino`  
 
----
+## Tech Stack
 
-### 🔬 Selected Projects
-| Project | Brief |
-|----------|--------|
-| [**Detection of Malicious Mobile Webpages**](https://github.com/RovishKataria/Detection-of-Malicious-Mobile-Webpages) | Android app + ML model for phishing URL detection (96 % accuracy). |
-| [**Sign Language Recognition**](https://github.com/RovishKataria/Sign-Language-Recognition) | Real-time ASL gesture translation using CNN & OpenCV (88 % accuracy). |
-| [**House Price Prediction**](https://github.com/RovishKataria/House-Price-Prediction) | XGBoost & RF ensemble models with advanced hyper-tuning (RMSE 0.129). |
-| [**Resume Score**](https://github.com/RovishKataria/Resume-Score) | React + FastAPI NLP tool for resume-JD matching using Sentence Transformers. |
-| [**Bias Detection Dashboard**](https://github.com/RovishKataria/CS698Y/tree/main/Assignment%202) | Fairness evaluation for absenteeism prediction with mitigation strategies. |
-| [**Campus Essentials**](https://github.com/RovishKataria/Campus-Essentials) | Full-stack marketplace for students with chat and auth system. |
+**Languages & Data**  
+`Python` `C++` `SQL` `Excel` `VBA`
 
----
+**Machine Learning & AI**  
+`PyTorch` `scikit-learn` `TensorFlow` `LLMs` `NLP` `Generative AI`
 
-### 📊 GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=RovishKataria&show_icons=true&theme=transparent)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RovishKataria&layout=compact&theme=transparent)
+**Software Engineering**  
+`FastAPI` `Flask` `React` `Docker` `Git`
 
----
+**Visualization & Specialized Tools**  
+`VTK` `Plotly` `Streamlit` `OpenSCAD` `Arduino`
 
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/rohan-sde/) | [Portfolio](https://rovishkataria.github.io/Portfolio/) | [Email](mailto:rohankataria2000@gmail.com)
+
+## Selected Projects
+
+### 🔬 AAKAAR — An LLM-Based Approach to Parametric Shape Synthesis
+
+M.Tech thesis at IIT Kanpur exploring LLM-based generation of executable OpenSCAD programs from structured 3D shape descriptions. The work involved programmatic dataset generation, fine-tuning GPT-OSS-20B with LoRA, and evaluation using code-level and geometric metrics.
+
+> Repository currently private due to thesis embargo.
+
+### 📄 Resume Score — Resume Evaluation Tool
+
+A full-stack resume evaluation tool built with React and FastAPI. It parses resumes and job descriptions, extracts relevant information using NLP techniques, and supports candidate ranking and batch evaluation using Sentence Transformers and other text-matching methods.
+
+[View Repository →](https://github.com/RovishKataria/Resume-Score)
+
+### 🛡️ Detection of Malicious Mobile Webpages
+
+Machine-learning-based Android application for classifying URLs as malicious or legitimate. Built a feature extraction pipeline for URL and webpage characteristics, evaluated multiple classification algorithms, and integrated the model with a Flask API and React Native client for real-time predictions.
+
+[View Repository →](https://github.com/RovishKataria/Detection-of-Malicious-Mobile-Webpages)
+
+### ⚖️ Bias Detection & Fairness Evaluation
+
+Developed a fairness evaluation system for an absenteeism prediction model, analyzing prediction disparities across age, education, and service-time groups. Applied mitigation strategies including targeted resampling, feature elimination, and group balancing to investigate and address observed disparities.
+
+[View Repository →](https://github.com/RovishKataria/CS698Y/tree/main/Assignment%202)
+
+### 🌐 Interactive 3D Isocontour Visualization
+
+Developed an interactive scientific visualization dashboard for analyzing a 3D turbulence scalar field. Implemented isosurface extraction with adaptive coloring and interactive isovalue controls, enabling exploration of scalar distributions and vortex structures.
+
+[View Repository →](https://github.com/RovishKataria/CS661/blob/main/Assignments/Assignment_2/Assignment_2.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rohan-rovish)
+- [Portfolio](https://rovishkataria.github.io/Portfolio/)
+- [GitHub](https://github.com/RovishKataria)
